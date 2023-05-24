@@ -5,7 +5,7 @@
 - 🔭 Working Hours: Min 30hrs/wk  Mon - Friday 
 - 🌱 Language: English - fluent
 - 👯 Specialty: AWS Cloud Services and DevOps
-- 🥅 Availability: I'm always available for your projects and jobs opporturnity
+- 🥅 Availability: I'm always available for your projects
 - ⚡ Hobbies: Travelling, Learning
 -  👯 I’m looking to collaborate on Tech Events
 -  📫 How to reach me: mmadubugwuchibuife@gmail.com
